@@ -1,0 +1,28 @@
+.card img{
+    width: 400px;
+    border-radius: 10px;
+    margin: 25px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+
+}
+
+.card section{
+    background: rgba(1,9,28,0.75);
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    filter: drop-shadow(0px 4px 4px rgba(0,0 0.25, 0.25));
+}
+
+.card h3{
+    font-size: 25px;
+}
+.card img:hover{
+    transform: translate(-13px);
+    
+    cursor: pointer;
+    transition-duration: 0.9s;
+}
