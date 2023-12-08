@@ -11,7 +11,7 @@ function Presentation() {
       <p> Texto introdutorio</p>
       <ButtonA
         link="https://github.com/Thfneves"
-        text="Conect-se Comigo"
+        text="Conecte-se Comigo"
       ></ButtonA>
     </div>
   );

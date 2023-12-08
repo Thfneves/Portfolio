@@ -23,7 +23,7 @@ function Project() {
         tech={"HTML, CSS, REACT"}
         description={"Desenvolvimento do portfolio usando React"}
         repo={"https://github.com/Thfneves/Portfolio"}
-        site={" IMPLEMENTAR UM SITE"}
+        site={" https://portfolio-six-mu-88.vercel.app/"}
       ></Card>
       <Card
         img={tempo}
