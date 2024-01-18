@@ -1,0 +1,18 @@
+// essa pagina estara constando o scss para a tarefa, status e opcoes. Estou encontrando muita dificuldade em deixar tudo alinhado de maneira pratica deste modo criei um arquivo a parte para tentar solucionar o problema
+.desespero {
+  display: flex;
+}
+
+.checkbox {
+  max-width: 20px;
+  margin-left: 10px;
+  padding-right: 1000px;
+  padding-left: 1000px;
+}
+.complete {
+  margin-left: 380px;
+  max-height: 390px;
+}
+.remove {
+  margin-right: 10px;
+}

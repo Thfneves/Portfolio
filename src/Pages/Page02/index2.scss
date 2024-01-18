@@ -1,0 +1,48 @@
+*{
+    color: aliceblue;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0,1em;
+}
+
+.Container2{
+  display:  flex;
+    align-items: center;
+   letter-spacing: 9px;
+  padding-left: 1em;
+   background: rgba(27, 27, 228, 0.971);
+font-size: 1.3em;
+height: 3em;
+}
+.Container2 button{
+    margin-left:8em;
+    letter-spacing: 8px;
+   border: 0px ;
+    border-radius: 9px;
+    background-color: rgb(40, 40, 40);
+    height: 3rem;
+    font-size: 0.5rem;
+
+}
+
+.button2{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.button2:hover{
+    cursor: pointer;
+    
+}
+.Container2 h2{
+margin-left: 9%;
+font-size: 1.3em;
+color: rgb(198, 198, 198);
+
+}
+
+.front{
+    background-color: black;
+    padding-bottom: 50.3rem;
+    
+}

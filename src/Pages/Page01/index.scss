@@ -1,0 +1,26 @@
+.Container {
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 10px;
+  margin-bottom: 100px; // distancia a palavra otimize sue tempo da borda.
+  padding-top: 10px;
+}
+.organizacao {
+  margin-left: 100px;
+  padding-right: 20px;
+  border-radius: 8px;
+  padding-bottom: 10px;
+  padding: 10px 10px 10px;
+  background-color: blue;
+}
+.tarefas {
+  background-color: aliceblue;
+
+  padding: 10px 20px 10px; //esta centralizando a palavra tarefas
+
+  margin-left: 40px; // esta puxando a palavra tarefas sem alterar a cor branca
+  border-radius: 5px;
+  color: blue;
+}

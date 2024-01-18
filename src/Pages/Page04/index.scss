@@ -1,0 +1,59 @@
+* {
+  font-family: Arial;
+  color: aliceblue;
+  align-items: stretch;
+
+  background-position: center;
+  background-size: cover;
+  background-color: rgb(39, 40, 41);
+}
+
+.app {
+  max-width: 3000px;
+  margin: 0 auto;
+
+  padding: 1px 0px 0px 0px;
+  border-radius: 10px;
+  width: 1300px;
+  height: 500px;
+  max-height: 3000px;
+}
+.h1 {
+  text-align: center;
+}
+h2 {
+  margin-bottom: 10px;
+}
+.p {
+  margin: 10px 0;
+}
+
+.input {
+  box-sizing: border-box;
+}
+
+.Situacao {
+  //situacao engloba tarefa, status opcoes e a todolist. a ideia e tentar deixar cada form que for preenchido alinhado
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.tarefa {
+  font-size: 10px;
+  padding-right: 300px;
+  max-width: 400px;
+  max-height: 200px;
+
+  padding-left: 250px;
+}
+.status {
+  font-size: 10px;
+
+  padding-right: 130px;
+  padding-left: 25px;
+}
+.opcoes {
+  font-size: 10px;
+
+  padding-right: 60px;
+}
